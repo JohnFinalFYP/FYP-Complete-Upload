@@ -1,0 +1,30 @@
+{
+  "name": "complete-fyp",
+  "version": "1.0.0",
+  "description": "Final Year Project on Climate Change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "climate",
+    "change",
+    "website"
+  ],
+  "author": "John Cunningham x14376696",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^3.2.0",
+    "aos": "^2.3.4",
+    "bootstrap": "^4.5.0",
+    "chart.js": "^2.9.3",
+    "gsap": "^3.4.2",
+    "jquery": "^3.5.1",
+    "jquery-inview": "^1.1.2",
+    "rellax": "^1.12.1",
+    "scrollmagic": "^2.0.7",
+    "stellar.js": "^0.6.5",
+    "vanilla-tilt": "^1.7.0",
+    "vivus": "^0.4.5"
+  }
+}
